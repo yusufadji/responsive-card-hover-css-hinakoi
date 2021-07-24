@@ -47,7 +47,7 @@ body {
     height: 100%;
     top: 0;
     left: 0;
-    background-image: url(/assets/img/bg.webp);
+    background-image: url(../img/bg.webp);
     background-size: cover;
     -webkit-filter: blur(0);
     filter: blur(0);
